@@ -1,0 +1,3 @@
+- 👋 Hi, I’m jim
+- 👀 I’m interested in javascript
+- 🌱 I’m currently learning reactJs
